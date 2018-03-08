@@ -14,14 +14,3 @@ Properties:file
                 driver class: org.h2.Driver
                 JDBC URL: jdbc:h2:mem:testdb
             clic on the connect button
-
-Pages:
-    http://localhost:8080/books
-    ---------------------------
-    http://localhost:8080/authors
-    -----------------------------
-
-
-
-
-
